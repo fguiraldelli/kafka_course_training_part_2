@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "core"
+		},
+		{
+			"path": "DepositService"
+		},
+		{
+			"path": "mockservice"
+		},
+		{
+			"path": "TransferService"
+		},
+		{
+			"path": "WithdrawalService"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
